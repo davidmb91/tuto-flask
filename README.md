@@ -10,4 +10,4 @@ Flask es un microframework en python basado en Werkzeug que te permite crear apl
 - Compatibilidad con WSGI 1.0 
 - Soporte Integrado para hacer Unit Testing
 
-<a href="https://geekytheory.com/?s=flask">Fuente tutoriales</a>
+<a href="https://geekytheory.com/?s=flask" target="_blank">Fuente tutoriales</a>
